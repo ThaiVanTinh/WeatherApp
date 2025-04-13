@@ -1,0 +1,53 @@
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\bin\Debug\net9.0\Server.exe
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\bin\Debug\net9.0\Server.deps.json
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\bin\Debug\net9.0\Server.dll
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\bin\Debug\net9.0\Server.pdb
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.sourcelink.json
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.dll
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\refint\Server.dll
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.pdb
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+D:\Huy KM21\Lap trinh mang\BTL\WeatherApp\Server\obj\Debug\net9.0\ref\Server.dll
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\bin\Debug\net9.0\Server.exe
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\bin\Debug\net9.0\Server.deps.json
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\bin\Debug\net9.0\Server.dll
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\bin\Debug\net9.0\Server.pdb
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.sourcelink.json
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.dll
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\refint\Server.dll
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.pdb
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+D:\Thai_Van_Tinh\NET\WeatherApp\Server\obj\Debug\net9.0\ref\Server.dll
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\bin\Debug\net9.0\Server.exe
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\bin\Debug\net9.0\Server.deps.json
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\bin\Debug\net9.0\Server.runtimeconfig.json
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\bin\Debug\net9.0\Server.dll
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\bin\Debug\net9.0\Server.pdb
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.AssemblyInfoInputs.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.AssemblyInfo.cs
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.csproj.CoreCompileInputs.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.dll
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\refint\Server.dll
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.pdb
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\Server.genruntimeconfig.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherAp\Server\obj\Debug\net9.0\ref\Server.dll
