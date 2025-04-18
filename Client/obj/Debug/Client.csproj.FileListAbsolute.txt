@@ -1,0 +1,52 @@
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\bin\Debug\WeatherApp.exe.config
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\bin\Debug\WeatherApp.exe
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\bin\Debug\WeatherApp.pdb
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\bin\Debug\Newtonsoft.Json.dll
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\bin\Debug\Newtonsoft.Json.xml
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\obj\Debug\Client.Form1.resources
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\obj\Debug\Client.csproj.Up2Date
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\obj\Debug\WeatherApp.exe
+D:\Thai_Van_Tinh\NET\WeatherApp\Client\obj\Debug\WeatherApp.pdb
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\bin\Debug\WeatherApp.exe.config
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\bin\Debug\WeatherApp.exe
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\bin\Debug\WeatherApp.pdb
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\bin\Debug\Newtonsoft.Json.dll
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\bin\Debug\Newtonsoft.Json.xml
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\obj\Debug\Client.Form1.resources
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\obj\Debug\WeatherApp.Properties.Resources.resources
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\obj\Debug\Client.csproj.Up2Date
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\obj\Debug\WeatherApp.exe
+E:\Compuer\HK8\Lập trình mạng\BTN\Client\obj\Debug\WeatherApp.pdb
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\bin\Debug\WeatherApp.exe.config
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\bin\Debug\WeatherApp.exe
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\bin\Debug\WeatherApp.pdb
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\bin\Debug\Newtonsoft.Json.dll
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\bin\Debug\Newtonsoft.Json.xml
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\obj\Debug\Client.Form1.resources
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\obj\Debug\Client.csproj.Up2Date
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\obj\Debug\WeatherApp.exe
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp_2\Client\obj\Debug\WeatherApp.pdb
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\bin\Debug\WeatherApp.exe.config
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\bin\Debug\WeatherApp.exe
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\bin\Debug\WeatherApp.pdb
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\bin\Debug\Newtonsoft.Json.dll
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\bin\Debug\Newtonsoft.Json.xml
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\obj\Debug\Client.Form1.resources
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\obj\Debug\Client.csproj.Up2Date
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\obj\Debug\WeatherApp.exe
+D:\Thai_Van_Tinh\NET\BTL\WeatherApp\Client\obj\Debug\WeatherApp.pdb

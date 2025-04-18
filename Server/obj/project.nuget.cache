@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pcRxFb5Uv1o=",
+  "success": true,
+  "projectFilePath": "D:\\Thai_Van_Tinh\\NET\\BTL\\WeatherApp\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tinht\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
