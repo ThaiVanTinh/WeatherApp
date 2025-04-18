@@ -1,21 +1,15 @@
-Dưới đây là nội dung đề xuất cho tệp `README.md` của dự án [ThaiVanTinh/WeatherApp](https://github.com/ThaiVanTinh/WeatherApp):
-
----
-
-# WeatherApp
-
-WeatherApp là một ứng dụng dự báo thời tiết được phát triển bằng ngôn ngữ C# trên nền tảng .NET. Ứng dụng cho phép người dùng tra cứu thông tin thời tiết theo địa điểm cụ thể bằng cách sử dụng API từ OpenWeatherMap.
+WeatherApp là một ứng dụng dự báo thời tiết được phát triển bằng ngôn ngữ C# trên nền tảng .NET. Ứng dụng cho phép người dùng tra cứu thông tin thời tiết theo địa điểm cụ thể bằng cách sử dụng API từ OpenWeatherMap.
 
 🧩 Tính năng
 
-- Tìm kiếm thông tin thời tiết theo tên thành phố
-- Hiển thị các thông tin cơ bản như nhiệt độ, độ ẩm, áp suất, tốc độ gió và mô tả thời tiết
-- Giao diện đơn giản, dễ sử dụng
+- Tìm kiếm thông tin thời tiết theo tên thành phố
+- Hiển thị các thông tin cơ bản như nhiệt độ, độ ẩm, áp suất, tốc độ gió và mô tả thời tiết
+- Giao diện đơn giản, dễ sử dụng
 
 🛠️ Công nghệ sử dụng
 
- - Ngôn ngữ lập trình: **C#*
- - Nền tảng: .NET Framework*
+ - Ngôn ngữ lập trình: C#
+ - Nền tảng: .NET Framework
  - API thời tiết: https://openweathermap.org/api
  - Thư viện hỗ trợ: Newtonsoft.Json để xử lý dữ liệu JSON
 
